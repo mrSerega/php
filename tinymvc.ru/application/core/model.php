@@ -1,7 +1,7 @@
 <?php
     class Model
     {
-        public funnction get_data()
+        public function get_data()
         {
             //EMPTY
         }
